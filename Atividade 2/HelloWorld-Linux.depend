@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521659910 source:/home/aretha/Dropbox/UTFPR/Disciplinas/2018/1 semestre/BCC35F - Computacao Grafica/Slides/3 - Introdução à OpenGL com C/Codigos - Introducao OpenGL com C/HelloWorld-Linux/main.c
+	<GL/glut.h>
+
+1521659910 source:/home/aretha/Dropbox/UTFPR/Disciplinas/2018/2 semestre/BCC35F - Computacao Grafica/Slides/3 - Introdução à OpenGL com C/Codigos - Introducao OpenGL com C/HelloWorld-Linux/main.c
+	<GL/glut.h>
+
